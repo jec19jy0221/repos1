@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.print("HelloWorld");
 		System.out.print("Java");
+		System.out.print("HTML5");
 	}
 
 }
